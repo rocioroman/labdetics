@@ -10,8 +10,8 @@ Proyecto final laboratorio de TICS haciendo uso de sensor de sonido KY-038
 
 
 ## Bibliografia
-[Raspberry Pi - Arduino Comunicación Serial]{https://www.instructables.com/Raspberry-Pi-Arduino-Serial-Communication/}
-[Raspberry Pi - Arduino Comunicación Serial]{https://roboticsbackend.com/raspberry-pi-arduino-serial-communication/}
+[Raspberry Pi - Arduino Comunicación Serial](https://www.instructables.com/Raspberry-Pi-Arduino-Serial-Communication/)
+[Raspberry Pi - Arduino Comunicación Serial](https://roboticsbackend.com/raspberry-pi-arduino-serial-communication/)
 
-[Web Server con Flask]{https://projects.raspberrypi.org/en/projects/python-web-server-with-flask}
-[Otro turotial con Flask]{https://towardsdatascience.com/python-webserver-with-flask-and-raspberry-pi-398423cc6f5d}
+[Web Server con Flask](https://projects.raspberrypi.org/en/projects/python-web-server-with-flask)
+[Otro turotial con Flask](https://towardsdatascience.com/python-webserver-with-flask-and-raspberry-pi-398423cc6f5d)
