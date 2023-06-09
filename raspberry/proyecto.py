@@ -2,29 +2,27 @@ import RPi.GPIO as GPIO
 import time
 import serial
 
-ser = serial.Serial('/dev/ttyUSB0',9600, timeout = 1)
-
+ser = serial.Serial('/dev/ttyACM0',9600, timeout = 1)
+ser.reset_input_buffer()
 GPIO.setmode(GPIO.BCM)
 
-# Distance Sensor
-digital_pin =  17 #Escribir el pin del echo
-GPIO.setup(digital_pin, GPIO.IN)
-time.sleep(1)
 
 # LED
-led_pin = 23 #Escribir el pin del LED
-GPIO.setup(led_pin, GPIO.OUT)
+led_pin_red = 18 #Escribir el pin del LED
+led_pin_yellow = 23
+GPIO.setup(led_pin_red, GPIO.OUT)
+GPIO.setup(led_pin_yellow,GPIO.OUT)
+limite_y = 3.0
+limite_r = 5
 
-limite = 500
 
 while True:
     if ser.in_waiting > 0:
-        analog = ser.readline().decode('utf-8').rstrip()
-        print(analog)
-    # ver que tipo de salida da analog para dps compararlo con el limite
-    # LED
-    if analog<limite:
-        GPIO.output(led_pin, False)
-    else:
-        GPIO.output(led_pin, True)
+       analog = ser.readline().decode('utf-8').rstrip()
+       if analog!="":
+        print("Voltaje es",analog)
+        convert = float(analog)
+        if convert>limite_y:
+           print("Amarillo")
+           GPIO.output(led_pin_yellow, GPIO.LOW)
     time.sleep(0.2)
