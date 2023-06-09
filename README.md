@@ -20,3 +20,5 @@ Ingreso mediante 192.168.1.14:5000
 [Web Server con Flask](https://projects.raspberrypi.org/en/projects/python-web-server-with-flask)
 
 [Otro turotial con Flask](https://towardsdatascience.com/python-webserver-with-flask-and-raspberry-pi-398423cc6f5d)
+
+https://towardsdatascience.com/python-webserver-with-flask-and-raspberry-pi-398423cc6f5d 
