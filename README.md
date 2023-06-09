@@ -8,6 +8,9 @@ Proyecto final laboratorio de TICS haciendo uso de sensor de sonido KY-038
 - Cables Jumper
 - Breadboard
 
+## Aplicación Web
+
+Ingreso mediante 192.168.1.14:5000
 
 ## Bibliografia
 [Raspberry Pi - Arduino Comunicación Serial](https://www.instructables.com/Raspberry-Pi-Arduino-Serial-Communication/)
