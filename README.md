@@ -24,3 +24,4 @@ Ingreso mediante 192.168.1.14:5000
 https://towardsdatascience.com/python-webserver-with-flask-and-raspberry-pi-398423cc6f5d 
 https://randomnerdtutorials.com/raspberry-pi-remote-ssh-vs-code/
 https://www.youtube.com/watch?v=3qwSICiyXGc
+ AJAX
