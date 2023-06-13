@@ -1,5 +1,5 @@
 # Laboratorio de TICS
-## Proyecto final 
+## Proyecto final IoT
 Proyecto final laboratorio de TICS haciendo uso de sensor de sonido KY-038 
 
 ## Componentes a utilizar
@@ -7,6 +7,7 @@ Proyecto final laboratorio de TICS haciendo uso de sensor de sonido KY-038
 - Arduino UNO 
 - Cables Jumper
 - Breadboard
+<img width="289" alt="circuito " src="https://github.com/rocioroman/labdetics/assets/52686267/fded8d38-8afa-43de-97fb-054f25e2d831">
 
 ## Aplicación Web
 ![detecta](https://github.com/rocioroman/labdetics/assets/52686267/bccf578e-e7b0-4cd6-b029-4e7ea59a90a7)
