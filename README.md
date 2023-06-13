@@ -4,9 +4,15 @@ Proyecto final laboratorio de TICS haciendo uso de sensor de sonido KY-038
 
 ## Componentes a utilizar
 - Raspberry Pi
+- Sensor Sonido KY-038
 - Arduino UNO 
+- Cable Arduino USB tipo AB
 - Cables Jumper
 - Breadboard
+- Led Roja
+- Resistencia 220  $\ohm$
+
+## Circuito
 <img width="389" alt="circuito " src="https://github.com/rocioroman/labdetics/assets/52686267/fded8d38-8afa-43de-97fb-054f25e2d831">
 
 ## Aplicación Web
