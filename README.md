@@ -25,3 +25,6 @@ https://towardsdatascience.com/python-webserver-with-flask-and-raspberry-pi-3984
 https://randomnerdtutorials.com/raspberry-pi-remote-ssh-vs-code/
 https://www.youtube.com/watch?v=3qwSICiyXGc
  AJAX
+ 
+ https://linuxhint.com/setup-raspberry-pi-samba-server/
+ https://pimylifeup.com/raspberry-pi-samba/
