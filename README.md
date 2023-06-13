@@ -9,6 +9,7 @@ Proyecto final laboratorio de TICS haciendo uso de sensor de sonido KY-038
 - Breadboard
 
 ## Aplicación Web
+![detecta](https://github.com/rocioroman/labdetics/assets/52686267/bccf578e-e7b0-4cd6-b029-4e7ea59a90a7)
 
 Ingreso mediante 192.168.1.14:5000
 
