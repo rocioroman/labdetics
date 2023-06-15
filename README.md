@@ -16,9 +16,10 @@ Proyecto final laboratorio de TICS haciendo uso de sensor de sonido KY-038
 <img width="589" alt="circuito " src="https://github.com/rocioroman/labdetics/assets/52686267/fded8d38-8afa-43de-97fb-054f25e2d831">
 
 ## Aplicación Web
+Ingreso mediante 192.168.1.14:5000
 ![detecta](https://github.com/rocioroman/labdetics/assets/52686267/bccf578e-e7b0-4cd6-b029-4e7ea59a90a7) ![nodetecta](https://github.com/rocioroman/labdetics/assets/52686267/38a85ce0-2b09-47cd-9168-202c788add6b)
 
-Ingreso mediante 192.168.1.14:5000
+
 
 ## Bibliografia
 [Raspberry Pi - Arduino Comunicación Serial](https://www.instructables.com/Raspberry-Pi-Arduino-Serial-Communication/)
