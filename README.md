@@ -27,7 +27,11 @@ Ingreso mediante 192.168.1.14:5000
 ## Bibliografia
 
 [Raspberry Pi - Arduino Comunicación Serial](https://roboticsbackend.com/raspberry-pi-arduino-serial-communication/)
+
 [Web Server con Flask](https://projects.raspberrypi.org/en/projects/python-web-server-with-flask)
+
 [Raspeberry pi con Flask](https://towardsdatascience.com/python-webserver-with-flask-and-raspberry-pi-398423cc6f5d)
+
 [Programming Raspberry Pi Remotely using VS Code](https://randomnerdtutorials.com/raspberry-pi-remote-ssh-vs-code/)
+
 [Display DHT sensor Data on Webpage using HTML and Flask Python](https://www.youtube.com/watch?v=3qwSICiyXGc&ab_channel=SoumilShah)
